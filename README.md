@@ -1,4 +1,4 @@
-# Sistema de Lâmpada Inteligente com Sensor de Presença
+# Projeto: Sistema de Lâmpada Inteligente com Sensor de Presença
 
 Objetivo:
 
